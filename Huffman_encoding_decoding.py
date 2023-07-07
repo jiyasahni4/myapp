@@ -91,5 +91,5 @@ def main():
     st.image(dot.render(format='png'), use_column_width=True)
 
 
-if __name__ == '_main_':
+if __name__ == '__main__':
     main()
