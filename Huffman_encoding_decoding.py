@@ -177,6 +177,6 @@ def main():
     print_symbol_frequencies(symbol_frequencies)
 
 
-
 if __name__ == '__main__':
     main()
+
